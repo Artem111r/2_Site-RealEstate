@@ -1035,3 +1035,11 @@ body {
 
 
 }
+
+@media (max-width: 488.98px){
+  .partners-comments__items{
+   display: flex;
+   
+    justify-content: center;
+  }
+}
